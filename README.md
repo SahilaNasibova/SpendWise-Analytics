@@ -1,3 +1,10 @@
+
+![SpendWise Analytics Cover](cover.png)
+
+# SpendWise Analytics
+Banking Customer Financial Behavior Analysis
+
+
 # SpendWise Analytics — Banking Customer Financial Behavior Analysis
 
 ## Project Overview
